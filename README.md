@@ -1,4 +1,4 @@
-<h1 align="center"> :D </h1>
+
 
 Sobre mim
 - 🌱 Atualmente estou aprendendo Java e React.
