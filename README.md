@@ -20,4 +20,4 @@ Sobre mim
 
 ## Projetos
 
-- [Timesheet] - Até o momento o meu maior projeto, que ainda estou desenvolvendo. Atualmente estou fazendo um freelance para uma empresa de contabilidade, consiste num webapp de uma timesheet para os funcionários poderem administrarem o tempo de cada serviço de cada cliente.
+- [Timesheet] - O projeto é um freelance para uma empresa de contabilidade, consiste num webapp de uma timesheet para os funcionários poderem administrarem o tempo de cada serviço de cada cliente, além de outras funcionalidades.
