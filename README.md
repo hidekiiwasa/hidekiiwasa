@@ -1,7 +1,7 @@
 
 
 Sobre mim
-- 🌱 Atualmente estou aprendendo Java e React.
+- 🌱 Atualmente estou aprendendo Node.js.
 - 🎓 Estou estudando Engenharia de Software na FIAP.
 - 🔄 Gosto bastante de programação dinâmica.
 - 📫 [Spider321011@hotmail.com].
