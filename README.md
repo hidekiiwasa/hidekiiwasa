@@ -22,3 +22,4 @@ Sobre mim
 
 - [Timesheet] - O projeto é um freelance para uma empresa de contabilidade, consiste num webapp de uma timesheet para os funcionários poderem administrarem o tempo de cada serviço de cada cliente, além de outras funcionalidades.
 - [SunnyMeter] - API de uma fictícia empresa de eletricidade, contendo as próprias regras de negócios
+- [Bethunter] - API do aplicativo mobile Bethunter (https://bethunterlp.vercel.app)
